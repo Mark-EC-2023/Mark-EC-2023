@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Mark-EC-2023
+- 👋 Hi, I’m Marcos da Silva
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning in C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning in C/C++ language
 
 <!---
 Mark-EC-2023/Mark-EC-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
